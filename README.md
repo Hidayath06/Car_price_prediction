@@ -11,6 +11,7 @@ Feature selection and engineering for optimal predictions
 Implementation of multiple machine learning models
 Model evaluation and comparison
 Visualizations for price trends and feature importance
+
 Technologies Used:
 
 Python (Pandas, NumPy, Scikit-learn)
